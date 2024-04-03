@@ -1,0 +1,15 @@
+# Ignorar todos os arquivos dentro de .data
+data/
+
+# Ignorar todos os arquivos dentro de .output
+output/
+
+/govbox.zip
+
+venv/
+
+build/
+
+dist/
+
+excel/
