@@ -4,8 +4,6 @@ data/
 # Ignorar todos os arquivos dentro de .output
 output/
 
-/govbox.zip
-
 venv/
 
 build/
@@ -15,3 +13,9 @@ dist/
 excel/
 
 __pycache__/
+
+*.botproj
+
+*.spec
+
+govbox.zip
