@@ -13,15 +13,15 @@ Este projeto contém scripts automatizados para extrair informações de funcion
 
 1. Clone o repositório:
     ```bash
-    /git clone https://github.com/seu-usuario/seu-repositorio.git/
+    git clone https://github.com/seu-usuario/seu-repositorio.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    /cd seu-repositorio/
+    cd seu-repositorio
     ```
 3. Instale as dependências executando o comando abaixo:
     ```bash
-    /pip install PyQt5 pdfplumber openpyxl/
+    pip install PyQt5 pdfplumber openpyxl
     ```
 
 ## Estrutura do Código
